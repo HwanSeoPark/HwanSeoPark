@@ -5,8 +5,9 @@
   <p style="color:#2D3748;">
     <b>🌱 안녕하세요! 제 GitHub에 오신 것을 환영합니다.</b><br>
   </p>
-  
-  <img src="https://github.com/user-attachments/assets/057cd6b2-d0a0-4cf5-a659-8f3ffafa025c" alt="HSP Coding Cat" width="250px"/>
+
+
+  <img src="https://github.com/user-attachments/assets/c7d874f8-1849-49af-b584-a88d20449bb9" alt="HSP Coding Cat" width="250px"/>
   
   <p style="color:#2D3748; font-size: 0.9em; margin-top: 10px;">
     HSP 고양이가 열심히 코딩 중! 💻🐾
