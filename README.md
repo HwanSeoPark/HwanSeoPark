@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FEFCE8&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=D9F99D&height=300&section=header&text=capsule%20render&fontSize=90)
 
 
 # HwanSeoPark
