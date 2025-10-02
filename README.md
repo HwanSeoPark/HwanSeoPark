@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=HwanSeoPark&fontSize=90&animation=fadeIn&fontAlignY=35&colorBackground=E6FFFA)
+![ani](https://github.com/user-attachments/assets/41270c10-9016-4fad-80c2-159e647886c1)![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=HwanSeoPark&fontSize=90&animation=fadeIn&fontAlignY=35&colorBackground=E6FFFA)
 
 <div align="center">
+![ani](https://github.com/user-attachments/assets/7e3144f5-f956-44c3-833f-4ea453f119b7)
 
   <p style="color:#2D3748;">
     <b>🌱 안녕하세요! 제 GitHub에 오신 것을 환영합니다.</b><br>
