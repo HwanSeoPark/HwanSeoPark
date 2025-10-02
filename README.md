@@ -1,5 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=C6F6D5&height=300&section=header&text=capsule%20render&fontSize=90)
 
+<div align="center">
+  <p style="color:#2F4858;">
+    <b>🌱 안녕하세요! 제 GitHub에 오신 것을 환영합니다.</b><br>
+  </p>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-C6F6D5?style=for-the-badge&logo=javascript&logoColor=2F4858"/>
+  <img src="https://img.shields.io/badge/React-C6F6D5?style=for-the-badge&logo=react&logoColor=2F4858"/>
+  <img src="https://img.shields.io/badge/Java-C6F6D5?style=for-the-badge&logo=openjdk&logoColor=2F4858"/>
+  <img src="https://img.shields.io/badge/Spring-C6F6D5?style=for-the-badge&logo=spring&logoColor=2F4858"/>
+</div>
+
+<br> <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&bg_color=FAFFF5&title_color=2F4858&text_color=2F4858&icon_color=C6F6D5" />
+</div>
 
 # HwanSeoPark
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
