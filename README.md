@@ -1,7 +1,5 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=94f78d&height=120&text=Hello!!!&animation=fadeIn&fontColor=f09042&fontSize=70" />
-    </div>
-    
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 
 # HwanSeoPark
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
