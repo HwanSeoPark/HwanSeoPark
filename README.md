@@ -9,7 +9,7 @@
   <img src="https://github.com/user-attachments/assets/464b29e6-cd7b-4d26-a87b-ba29514db0ee" alt="HSP Coding Cat" width="250px"/>
   
   <p style="color:#2D3748; font-size: 0.9em; margin-top: 10px;">
-    HSP 고양이가 열심히 코딩 중! 💻🐾
+    <b>HSP 고양이가 열심히 코딩 중! 💻🐾</b><br>
   </p>
   
   <p>
