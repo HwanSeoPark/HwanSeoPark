@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=C6F6D5&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=C6F6D5&height=300&section=header&text=HwanSeo GitHub%20render&fontSize=90)
 
 <div align="center">
   <p style="color:#2F4858;">
@@ -6,9 +6,6 @@
   </p>
 </div>
 
-<br> <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&bg_color=FAFFF5&title_color=2F4858&text_color=2F4858&icon_color=C6F6D5" />
-</div>
 
 # HwanSeoPark
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
