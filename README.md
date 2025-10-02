@@ -1,11 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=C6F6D5&height=300&section=header&text=HwanSeo GitHub%20render&fontSize=90)
 
 <div align="center">
-  <p style="color:#2F4858;">
-    <b>🌱 안녕하세요! 제 GitHub에 오신 것을 환영합니다.</b><br>
-  </p>
+ 
 </div>
 
+<br> <div align="center">
+
+</div>
 
 # HwanSeoPark
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
